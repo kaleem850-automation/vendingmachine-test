@@ -1,4 +1,4 @@
-#Vending Machine Simulator
+# Vending Machine Simulator
 This is example project using Java and Junit to simulate and test the vending machine behaviour
 
 ## Things needed
